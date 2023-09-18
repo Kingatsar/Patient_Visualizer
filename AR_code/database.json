@@ -1,0 +1,22 @@
+{
+	"0": {
+		"image": "marker/0.jpg",
+		"information": {
+			"Name": "Jessy Ribaira",
+			"Age": 22,
+			"Year of birth": 1999,
+			"Medication": "2 aspirins twice a day",
+			"Reason of stay": "Stomach ache"
+		}
+	},
+	"1": {
+		"image": "marker/1.jpg",
+		"information": {
+			"Name": "Leonard Fernand",
+			"Age": 72,
+			"Year of birth": 1950,
+			"Medication": "Ramucirumab (Cyramza) in combination with the chemotherapy drug docetaxel",
+			"Reason of stay": "Lung cancer"
+		}
+	}
+}
